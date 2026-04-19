@@ -5,25 +5,37 @@ const services = [
     icon: '🎨',
     title: 'Social Media Design',
     description: 'Eye-catching posts, stories & reels covers that make your feed pop.',
-    tags: ['Instagram', 'TikTok', 'Pinterest'],
-  },
-  {
-    icon: '✨',
-    title: 'Photo Manipulation',
-    description: 'Dreamy composites & surreal edits that tell a visual story.',
-    tags: ['Compositing', 'Retouching', 'Fantasy'],
+    tags: ['Instagram', 'Facebook', 'Stories'],
   },
   {
     icon: '🎬',
     title: 'Motion Graphics',
-    description: 'Smooth 9:16 animations & transitions for reels and stories.',
+    description: 'Smooth animations & transitions for reels, stories and brand videos.',
     tags: ['After Effects', 'Reels', '9:16'],
   },
   {
     icon: '🖨️',
     title: 'Print Design',
-    description: 'Beautiful flyers, posters & packaging with a touch of magic.',
-    tags: ['Posters', 'Packaging', 'Branding'],
+    description: 'Professional banners, standees, menus & posters for any occasion.',
+    tags: ['Banners', 'Standees', 'Menus', 'Posters'],
+  },
+  {
+    icon: '✏️',
+    title: 'Logo & Branding',
+    description: 'Memorable logos and brand identities that tell your story.',
+    tags: ['Logos', 'Wordmarks', 'Brand Identity'],
+  },
+  {
+    icon: '📦',
+    title: 'Packaging Design',
+    description: 'Shelf-ready packaging that stands out and speaks to your customer.',
+    tags: ['Labels', 'Boxes', 'Product Design'],
+  },
+  {
+    icon: '🖥️',
+    title: 'UI Design',
+    description: 'Clean, modern web interfaces and landing pages that convert.',
+    tags: ['Figma', 'Web Design', 'Landing Pages'],
   },
 ];
 
@@ -42,7 +54,7 @@ export default function Services() {
           </h2>
         </div>
 
-        <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
+        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'>
           {services.map((service, i) => (
             <div
               key={i}

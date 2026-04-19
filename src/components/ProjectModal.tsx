@@ -41,23 +41,35 @@ export default function ProjectModal({ item, onClose }: Props) {
           </svg>
         </button>
 
-        {/* Image area */}
+        {/* Media area */}
         <div
-          className={`w-full ${item.aspect} max-h-[50vh] bg-gradient-to-br ${item.color} rounded-t-3xl overflow-hidden relative`}>
-          <img
-            src={item.image}
-            alt={item.title}
-            className='w-full h-full object-cover'
-            onError={(e) => {
-              (e.target as HTMLImageElement).style.display = 'none';
-            }}
-          />
+          className={`w-full max-h-[70vh] bg-gradient-to-br ${item.color} rounded-t-3xl overflow-hidden relative flex items-center justify-center`}>
+          {item.video ? (
+            <video
+              src={item.video}
+              controls
+              autoPlay
+              playsInline
+              className='w-full max-h-[70vh] object-contain bg-black'
+            />
+          ) : (
+            <img
+              src={item.image}
+              alt={item.title}
+              className='w-full max-h-[70vh] object-contain'
+              onError={(e) => {
+                (e.target as HTMLImageElement).style.display = 'none';
+              }}
+            />
+          )}
           {/* Fallback decorative element */}
-          <div className='absolute inset-0 flex items-center justify-center'>
-            <span className='font-display text-6xl md:text-8xl text-white/20 tracking-wider'>
-              {item.title.split(' ')[0]?.toUpperCase()}
-            </span>
-          </div>
+          {!item.video && (
+            <div className='absolute inset-0 flex items-center justify-center'>
+              <span className='font-display text-6xl md:text-8xl text-white/20 tracking-wider'>
+                {item.title.split(' ')[0]?.toUpperCase()}
+              </span>
+            </div>
+          )}
         </div>
 
         {/* Content */}
