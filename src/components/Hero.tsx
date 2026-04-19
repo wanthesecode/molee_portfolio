@@ -31,10 +31,11 @@ export default function Hero() {
             View My Work
           </a>
           <a
-            href='/resume.pdf'
-            download
+            href='/resume/Molee-Resume-2026.pdf'
+            target='_blank'
+            rel='noopener noreferrer'
             className='px-8 py-3.5 rounded-full border-2 border-blush-dark text-blush-dark font-body text-sm tracking-wide hover:bg-blush-dark hover:text-cream transition-all duration-300'>
-            Download Resume ↓
+            View Resume ↗
           </a>
           <a
             href='#contact'

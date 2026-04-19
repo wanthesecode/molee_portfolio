@@ -44,10 +44,11 @@ export default function Navbar() {
 
         <div className='hidden md:flex items-center gap-3'>
           <a
-            href='/resume.pdf'
-            download
+            href='/resume/Molee-Resume-2026.pdf'
+            target='_blank'
+            rel='noopener noreferrer'
             className='px-5 py-2 rounded-full border border-blush-dark text-blush-dark text-sm font-body tracking-wide hover:bg-blush-dark hover:text-cream transition-colors duration-300'>
-            Resume ↓
+            Resume ↗
           </a>
           <a
             href={isHome ? '#contact' : '/#contact'}
@@ -106,10 +107,11 @@ export default function Navbar() {
             ))}
             <li>
               <a
-                href='/resume.pdf'
-                download
+                href='/resume/Molee-Resume-2026.pdf'
+                target='_blank'
+                rel='noopener noreferrer'
                 className='inline-flex px-5 py-2 rounded-full border border-blush-dark text-blush-dark text-sm tracking-wide'>
-                Download Resume ↓
+                View Resume ↗
               </a>
             </li>
           </ul>
