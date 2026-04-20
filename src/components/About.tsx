@@ -24,8 +24,7 @@ export default function About() {
             </p>
             <h2 className='font-display text-5xl md:text-7xl tracking-wider text-charcoal mb-6'>
               HI, I'M
-              <br />
-              <span className='text-transparent bg-clip-text bg-gradient-to-r from-blush-dark to-lavender'>
+              <span className='text-transparent bg-clip-text bg-gradient-to-r from-blush-dark to-lavender pl-4'>
                 MOLEE
               </span>
             </h2>
@@ -40,7 +39,7 @@ export default function About() {
             </p>
 
             <div className='flex flex-wrap gap-3'>
-              {['Photoshop', 'Illustrator', 'After Effects', 'Figma', 'Canva Pro'].map((tool) => (
+              {['Photoshop', 'Illustrator', 'After Effects', 'Figma', 'Ai Tools'].map((tool) => (
                 <span
                   key={tool}
                   className='px-4 py-2 rounded-full border border-charcoal/10 text-charcoal text-sm font-body tracking-wide hover:bg-blush-light hover:border-blush/30 transition-colors duration-300'>
