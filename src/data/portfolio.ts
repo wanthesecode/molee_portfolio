@@ -252,7 +252,7 @@ export const portfolioItems: PortfolioItem[] = [
   // ── Print Design ──────────────────────────────────────
   {
     id: 'cerelac-project-heart',
-    title: 'Cerelac Project Heart',
+    title: 'Cerelac Project Heart HTML DA - Phase 2',
     category: 'Print Design',
     description:
       'A large-format print campaign for Nestlé Cerelac\'s "Project Heart" initiative — emotionally driven visuals featuring loving parent-child moments with warm, nurturing brand aesthetics.',
@@ -263,8 +263,20 @@ export const portfolioItems: PortfolioItem[] = [
     tools: ['Photoshop', 'Illustrator'],
   },
   {
+    id: 'cerelac-html-da',
+    title: 'CCerelac Project Heart DA - Phase 1',
+    category: 'Print Design',
+    description:
+      'A HTML UI design for Nestlé Cerelac — an HTML product DA with warm, inviting aesthetics, product showcases and parent-friendly navigation.',
+    image: '/portfolio/ui/html-da-cerelac.png',
+    aspect: 'aspect-[4/3]',
+    color: 'from-lavender-light to-blush/20',
+    tag: 'UI/UX',
+    tools: ['Figma', 'Photoshop'],
+  },
+  {
     id: 'lactogen-print',
-    title: 'Lactogen Campaign',
+    title: 'Lactogen GUM DA',
     category: 'Print Design',
     description:
       'Print material design for Nestlé Lactogen — clean, trustworthy visuals communicating infant nutrition with soft colors and professional medical-grade aesthetics.',
@@ -276,7 +288,7 @@ export const portfolioItems: PortfolioItem[] = [
   },
   {
     id: 'pustimix-ritual',
-    title: 'Pustimix Ritual',
+    title: 'Pustimix Ritual DA',
     category: 'Print Design',
     description:
       'A print campaign for Pustimix — showcasing the daily nutrition ritual with appetizing food imagery and health-conscious design for in-store and outdoor display.',
@@ -287,8 +299,8 @@ export const portfolioItems: PortfolioItem[] = [
     tools: ['Photoshop', 'Illustrator'],
   },
   {
-    id: 'nido-standee-1',
-    title: 'Nido Standee',
+    id: 'nido-lb',
+    title: 'Nido LB',
     category: 'Print Design',
     description:
       'A standing banner design for Nestlé Nido — tall portrait format with prominent product placement, nutritional messaging and family-oriented imagery.',
@@ -299,8 +311,8 @@ export const portfolioItems: PortfolioItem[] = [
     tools: ['Photoshop', 'Illustrator'],
   },
   {
-    id: 'nido-standee-2',
-    title: 'Nido Standee Variant',
+    id: 'nido-lb-2',
+    title: 'Nido LB 2',
     category: 'Print Design',
     description:
       'An alternate standee design for Nestlé Nido — a fresh layout variation maintaining brand consistency while exploring different visual compositions.',
@@ -484,20 +496,33 @@ export const portfolioItems: PortfolioItem[] = [
     tag: 'Illustration',
     tools: ['Photoshop', 'Illustrator'],
   },
+  {
+    id: 'labbe-children-illustration-p1',
+    title: 'Labbé Children Book P1',
+    category: 'Comic & Illustration',
+    description:
+      "Page 1 of a charming children's web-book illustration for Labbé — whimsical characters and colorful scenes designed to delight young readers.",
+    image: '/portfolio/comic-&-illustration/labbe-childrenwebbook-illustration-p1.png',
+    aspect: 'aspect-[2/1]',
+    color: 'from-peach/30 to-sage/20',
+    tag: 'Illustration',
+    tools: ['Photoshop', 'Illustrator'],
+  },
+  {
+    id: 'labbe-children-illustration-p2',
+    title: 'Labbé Children Book P2',
+    category: 'Comic & Illustration',
+    description:
+      "Page 2 of a charming children's web-book illustration for Labbé — continuing the story with vibrant artwork and playful visual storytelling.",
+    image: '/portfolio/comic-&-illustration/labbe-childrenwebbook-illustration-p2.png',
+    aspect: 'aspect-[2/1]',
+    color: 'from-lavender/30 to-peach/20',
+    tag: 'Illustration',
+    tools: ['Photoshop', 'Illustrator'],
+  },
 
   // ── UI Design ─────────────────────────────────────────
-  {
-    id: 'cerelac-web-ui',
-    title: 'Cerelac Web Design',
-    category: 'UI Design',
-    description:
-      'A web UI design for Nestlé Cerelac — an HTML product landing page with warm, inviting aesthetics, product showcases and parent-friendly navigation.',
-    image: '/portfolio/ui/html-da-cerelac.png',
-    aspect: 'aspect-[4/3]',
-    color: 'from-lavender-light to-blush/20',
-    tag: 'UI/UX',
-    tools: ['Figma', 'Photoshop'],
-  },
+
   {
     id: 'ui-design-study',
     title: 'UI Design Study',
