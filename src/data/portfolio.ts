@@ -6,7 +6,8 @@ export type PortfolioCategory =
   | 'Logo & Branding'
   | 'Packaging'
   | 'Comic & Illustration'
-  | 'UI Design';
+  | 'UI Design'
+  | 'Manipulation';
 
 export interface PortfolioItem {
   id: string;
@@ -31,6 +32,7 @@ export const categories: PortfolioCategory[] = [
   'Packaging',
   'Comic & Illustration',
   'UI Design',
+  'Manipulation',
 ];
 
 export const portfolioItems: PortfolioItem[] = [
@@ -546,5 +548,19 @@ export const portfolioItems: PortfolioItem[] = [
     color: 'from-blush/30 to-lavender-light',
     tag: 'UI/UX',
     tools: ['Figma'],
+  },
+
+  // ── Manipulation ──────────────────────────────────────
+  {
+    id: 'war-promo',
+    title: 'War Promo',
+    category: 'Manipulation',
+    description:
+      'A dramatic photo manipulation promo — cinematic compositing with intense mood, layered effects and powerful visual storytelling.',
+    image: '/portfolio/manipulation/war-promo.png',
+    aspect: 'aspect-[9/10]',
+    color: 'from-charcoal/20 to-lavender/20',
+    tag: 'Manipulation',
+    tools: ['Photoshop'],
   },
 ];
