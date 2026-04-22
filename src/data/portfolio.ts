@@ -370,6 +370,18 @@ export const portfolioItems: PortfolioItem[] = [
     tag: 'Banner',
     tools: ['Photoshop', 'Illustrator'],
   },
+  {
+    id: 'da-nan',
+    title: 'DA NAN',
+    category: 'Print Design',
+    description:
+      'A DA for NAN — bold visuals and clean layout crafted for impactful brand communication.',
+    image: '/portfolio/print/da-nan.png',
+    aspect: 'aspect-[5/2]',
+    color: 'from-peach/30 to-blush-light',
+    tag: 'Print',
+    tools: ['Photoshop'],
+  },
 
   // ── Logo & Branding ───────────────────────────────────
   {
