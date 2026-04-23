@@ -16,6 +16,7 @@ export default function Work() {
     'restaurant-posters',
     // 'war-promo',
     'frutzzy-concept',
+    'diploma-droolecious-desert',
   ];
   const featured = featuredIds
     .map((id) => portfolioItems.find((p) => p.id === id))
