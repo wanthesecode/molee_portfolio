@@ -186,6 +186,19 @@ export const portfolioItems: PortfolioItem[] = [
     tools: ['After Effects', 'Photoshop'],
   },
   {
+    id: 'diploma-droolecious-desert',
+    title: 'Diploma Droolecious Desert',
+    category: 'Motion Design',
+    description:
+      'A mouth-watering motion design for Diploma\'s Droolecious Desert campaign — rich dessert visuals with smooth animations and indulgent brand styling.',
+    image: '/portfolio/motion/diploma---droolecious-desert-thumb.png',
+    video: '/portfolio/motion/diploma-droolecious-desert.mp4',
+    aspect: 'aspect-[4/5]',
+    color: 'from-peach/30 to-blush-light',
+    tag: 'Motion',
+    tools: ['After Effects', 'Photoshop'],
+  },
+  {
     id: 'gp-15gb',
     title: 'GP 15 GB Free',
     category: 'Motion Design',
