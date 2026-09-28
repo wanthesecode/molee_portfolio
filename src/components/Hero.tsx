@@ -26,8 +26,7 @@ export default function Hero() {
         </h1>
 
         <p className='font-body text-warm-gray text-lg md:text-xl max-w-xl mx-auto mb-10 leading-relaxed'>
-          Crafting visuals that captivate — from dreamy social media content to stunning print
-          designs & motion graphics.
+          Visual designer crafting bold social campaigns, memorable brand identities, motion graphics, and print.
         </p>
 
         <div className='flex flex-col sm:flex-row items-center justify-center gap-4'>

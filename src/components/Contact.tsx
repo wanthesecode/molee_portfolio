@@ -29,7 +29,7 @@ export default function Contact() {
 
         <div className='flex flex-col sm:flex-row items-center justify-center gap-4'>
           <a
-            href='mailto:mahfuza.molee@gmail.com?subject=Hi%20Molee%20%E2%80%94%20I%E2%80%99d%20Love%20to%20Work%20With%20You!'
+            href="mailto:mahfuza.molee@gmail.com?subject=Hi%20Molee,%20I'd%20Love%20to%20Work%20With%20You!"
             className='inline-flex items-center gap-2 px-10 py-4 rounded-full bg-charcoal text-cream font-body text-lg tracking-wide hover:bg-blush-dark transition-all duration-300 hover:scale-105'>
             Say Hello ♡
           </a>

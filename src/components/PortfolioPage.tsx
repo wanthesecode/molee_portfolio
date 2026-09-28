@@ -115,7 +115,7 @@ export default function PortfolioPage() {
 
           {filtered.length === 0 && (
             <p className='text-center text-warm-gray font-body mt-16'>
-              No projects in this category yet — stay tuned! ✦
+              Nothing here just yet, but check back soon! ✦
             </p>
           )}
         </div>

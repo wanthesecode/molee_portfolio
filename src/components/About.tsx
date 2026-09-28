@@ -29,13 +29,10 @@ export default function About() {
               </span>
             </h2>
             <p className='font-body text-warm-gray text-lg leading-relaxed mb-6'>
-              A passionate creative designer who loves turning ideas into beautiful visuals. I
-              specialize in social media content, photo manipulation, motion design, and print — all
-              with a sprinkle of magic and a whole lot of love.
+              I'm a visual designer who genuinely loves turning rough ideas into sharp, memorable creative. Most days you'll find me working across brand identities, social campaigns, motion graphics, and print.
             </p>
             <p className='font-body text-warm-gray leading-relaxed mb-8'>
-              When I'm not designing, you'll find me hunting for aesthetic inspo, experimenting with
-              new styles, or sipping on iced coffee. ☕
+              My focus is always on visual clarity, storytelling, and giving brands a distinct personality that clicks with real people. When I step away from the canvas, I'm usually exploring design trends, testing animation ideas, or grabbing an iced coffee. ☕
             </p>
 
             <div className='flex flex-wrap gap-3'>

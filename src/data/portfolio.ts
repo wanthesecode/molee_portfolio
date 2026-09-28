@@ -43,7 +43,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Apex Boshonto',
     category: 'Social Media',
     description:
-      'A festive social media post celebrating Boshonto (Bengali Spring / New Year) for Apex — warm colors, cultural motifs and seasonal energy in a clean square layout.',
+      'Spring campaign post designed for Apex celebrating Pohela Falgun. Centered around traditional Bengali motifs, marigold hues, and festive footwear styling to connect with holiday shoppers.',
     image: '/portfolio/social-media/apex-boshonto.JPG',
     aspect: 'aspect-square',
     color: 'from-peach/30 to-blush-light',
@@ -55,7 +55,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Diploma Chilled Coffee',
     category: 'Social Media',
     description:
-      'A refreshing recipe-style social media post for Diploma brand — showcasing a chilled coffee creation with appetizing food photography and modern layout.',
+      'Step-by-step recipe visual created for Diploma milk powder. Styled with rich coffee textures, ice cubes, and clear typography to make the home-brewing process look quick and tempting.',
     image: '/portfolio/social-media/diploma-make-chilled-coffee.jpeg',
     aspect: 'aspect-[4/5]',
     color: 'from-sage/30 to-cream',
@@ -67,7 +67,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'GP 5G Campaign',
     category: 'Social Media',
     description:
-      "A bold social media story design study for Grameenphone's 5G launch — striking visuals optimized for the 9:16 vertical format with dynamic typography and vibrant gradients.",
+      'Concept story layout created during Grameenphone 5G rollout. Built around high-contrast typography, deep gradients, and speed cues tailored for vertical mobile viewing.',
     image: '/portfolio/social-media/GP-5G-design-study.png',
     aspect: 'aspect-[9/16]',
     color: 'from-blush/30 to-lavender-light',
@@ -79,7 +79,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'DSE Lost Friends',
     category: 'Social Media',
     description:
-      'An emotional social media design for DSE exploring the theme of lost connections — nostalgic tones and heartfelt typography that resonates with the audience.',
+      'Community-focused post for Dhaka Stock Exchange reflecting on reconnecting with old acquaintances. Warm, nostalgic lighting and thoughtful typography give the message an authentic personal feel.',
     image: '/portfolio/social-media/dse-lost-friends.png',
     aspect: 'aspect-square',
     color: 'from-lavender/30 to-blush-light',
@@ -91,7 +91,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'HT Hiring Post',
     category: 'Social Media',
     description:
-      'A professional "We\'re Hiring" recruitment post for HT — combining corporate credibility with eye-catching design to attract top talent on social platforms.',
+      'Clean recruitment graphic for HT designed to cut through social feed clutter. Balances bold typographic hierarchy with open whitespace so key job qualifications stand out immediately.',
     image: '/portfolio/social-media/ht-hiring.png',
     aspect: 'aspect-square',
     color: 'from-lavender-light to-blush/20',
@@ -103,7 +103,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'HouseWork Promo',
     category: 'Social Media',
     description:
-      'A promotional social media post for HouseWork\'s "Get Free Maid" service offer — clear value proposition with inviting visuals and a strong call-to-action.',
+      'Promotional feed creative for HW services highlighting their housekeeping offer. Crisp vector accents and friendly domestic illustrations make the value proposition feel clear and approachable.',
     image: '/portfolio/social-media/hw-get-free-maid.png',
     aspect: 'aspect-square',
     color: 'from-peach/40 to-lavender-light',
@@ -115,7 +115,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'HouseWork Campaign',
     category: 'Social Media',
     description:
-      'A social media campaign design for HouseWork — cohesive brand visuals that communicate trust and convenience for home service bookings.',
+      'Branded social media template created for HouseWork services. Clean layout structure and reassuring blue tones designed to make booking home help feel safe and straightforward.',
     image: '/portfolio/social-media/hw-social-promo.png',
     aspect: 'aspect-square',
     color: 'from-blush/30 to-cream',
@@ -127,7 +127,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: "Joe's Classic Burger",
     category: 'Social Media',
     description:
-      "A mouth-watering social media post for Joe's Classic Burger — appetizing food photography paired with bold typography and warm tones that drive cravings.",
+      'Close-up food creative for Joe restaurant highlighting their signature burger. Warm backlighting, sesame seed details, and bold red typography built to trigger cravings at first glance.',
     image: '/portfolio/social-media/joes-classic-burger.png',
     aspect: 'aspect-square',
     color: 'from-peach/30 to-blush-light',
@@ -139,7 +139,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: "Joe's Grand Opening",
     category: 'Social Media',
     description:
-      "A grand opening announcement post for Joe's restaurant — exciting visuals with celebratory elements designed to generate buzz and foot traffic.",
+      'Launch announcement post for Joe flagship branch. Festive confetti elements, appetizing burger photography, and prominent date badges create anticipation for opening day.',
     image: '/portfolio/social-media/joes-opening.png',
     aspect: 'aspect-square',
     color: 'from-blush/40 to-cream',
@@ -151,7 +151,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Nido Design Study',
     category: 'Social Media',
     description:
-      'A design study for Nestlé Nido — exploring social media visual directions for the milk powder brand with clean layouts and family-friendly aesthetics.',
+      'Visual exploration for Nestlé Nido digital channels. Balances recognizable product placement with warm family snapshots and easy-to-read nutritional tips.',
     image: '/portfolio/social-media/nido-design-study.png',
     aspect: 'aspect-square',
     color: 'from-sage/30 to-lavender-light',
@@ -160,46 +160,23 @@ export const portfolioItems: PortfolioItem[] = [
   },
   {
     id: 'gp-no1-internet-offers-3d',
-    title: 'GP No. 1 Internet 3D Offers',
+    title: 'GP MyGP App Install Key Visual',
     category: 'Social Media',
     description:
-      'A 3D product showcase for Grameenphone highlighting No. 1 Internet offers on MyGP app — featuring an eye-catching transparent smartphone filled with glossy app icon badges against a deep blue gradient.',
+      'Key visual for the MyGP app install campaign highlighting premier internet offers. A translucent 3D smartphone case reveals glossy floating feature badges over Grameenphone signature blue gradient.',
     image: '/portfolio/social-media/gp-no1-internet-offers-3d.jpeg',
     aspect: 'aspect-square',
     color: 'from-lavender/30 to-blush-light',
     tag: '1:1',
     tools: ['Photoshop', 'Illustrator'],
   },
-  {
-    id: 'gp-no1-internet-lifestyle',
-    title: 'GP No. 1 Internet Lifestyle',
-    category: 'Social Media',
-    description:
-      'A lifestyle social media creative for Grameenphone celebrating seamless digital connectivity with MyGP app offers — featuring cheerful outdoor moments, gaming, and connected lifestyle.',
-    image: '/portfolio/social-media/gp-no1-internet-lifestyle-offers.jpeg',
-    aspect: 'aspect-square',
-    color: 'from-peach/30 to-cream',
-    tag: '1:1',
-    tools: ['Photoshop'],
-  },
-  {
-    id: 'gp-mygp-49tk-2gb',
-    title: 'GP MyGP 49Tk 2GB Offer',
-    category: 'Social Media',
-    description:
-      'A promotional social media banner for Grameenphone highlighting an exclusive 2 GB for 49 Taka offer on the MyGP app — clear typography and vibrant yellow badge design.',
-    image: '/portfolio/social-media/gp-mygp-49tk-2gb.jpeg',
-    aspect: 'aspect-square',
-    color: 'from-peach/40 to-lavender-light',
-    tag: '1:1',
-    tools: ['Photoshop'],
-  },
+
   {
     id: 'gp-mygp-33tk-2gb',
     title: 'GP MyGP 33Tk 2GB Offer',
     category: 'Social Media',
     description:
-      'An exciting promotional post for MyGP app featuring a limited-time 2 GB for 33 Taka offer — designed with energetic character imagery and bold discount callouts.',
+      'Promotional badge creative for the MyGP app highlighting a 2 GB data deal for 33 Taka. High-energy colors and large pricing typography ensure quick mobile comprehension.',
     image: '/portfolio/social-media/gp-mygp-33tk-2gb.jpeg',
     aspect: 'aspect-square',
     color: 'from-sage/30 to-cream',
@@ -211,7 +188,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'GP MyGP 20Tk 1GB Offer',
     category: 'Social Media',
     description:
-      'A context-driven social media post addressing on-the-go data shortages with a quick 1 GB for 20 Taka pack on MyGP app — relatable commuter storytelling with vibrant telecom styling.',
+      'Situational social post illustrating that awkward moment when mobile data runs out mid-commute. Directly presents the 1 GB quick top-up pack with relatable character storytelling.',
     image: '/portfolio/social-media/gp-mygp-20tk-1gb.jpeg',
     aspect: 'aspect-square',
     color: 'from-blush/30 to-lavender-light',
@@ -223,7 +200,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'GP MyGP Welcome Bonus',
     category: 'Social Media',
     description:
-      'An onboarding promotion for Grameenphone offering 1 GB welcome bonus upon downloading the MyGP app — cheerful, inviting visuals that drive user app adoption.',
+      'User onboarding creative for Grameenphone offering a 1 GB welcome reward upon downloading MyGP. Cheerful character art and clear steps encourage immediate installation.',
     image: '/portfolio/social-media/gp-mygp-welcome-bonus-1gb.jpeg',
     aspect: 'aspect-square',
     color: 'from-peach/30 to-blush-light',
@@ -235,7 +212,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'GP MyGP Best Offers',
     category: 'Social Media',
     description:
-      'A conversational campaign creative for Grameenphone guiding users to discover the best personalized telecom offers inside the MyGP application.',
+      'Personalized deal promo for MyGP designed like an interactive browsing showcase. Guides users toward discovering tailored internet packs directly inside the app.',
     image: '/portfolio/social-media/gp-mygp-best-offers.jpeg',
     aspect: 'aspect-square',
     color: 'from-lavender/30 to-cream',
@@ -247,7 +224,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'GP MyGP 1-Tap Subscription Off',
     category: 'Social Media',
     description:
-      'A futuristic feature announcement for MyGP app demonstrating effortless VAS management — glowing 3D sky toggle switches allowing users to cancel subscriptions in a single tap.',
+      'Feature announcement post illustrating how easily users can cancel unwanted VAS subscriptions. Uses a floating 3D toggle switch set against an airy sky backdrop to convey relief.',
     image: '/portfolio/social-media/gp-mygp-1-tap-subscription-off.jpeg',
     aspect: 'aspect-square',
     color: 'from-blush/30 to-lavender-light',
@@ -259,7 +236,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'GP MyGP Personalized Offer',
     category: 'Social Media',
     description:
-      'A poetic outdoor campaign visual for Grameenphone My Offer — featuring a bright blue kite soaring in the sky symbolizing customized, individual telecom plans.',
+      'Conceptual outdoor visual for Grameenphone personalized My Offer campaign. Uses a soaring blue kite in clear skies as a metaphor for freedom and customizable data plans.',
     image: '/portfolio/social-media/gp-mygp-my-offer-kite.jpeg',
     aspect: 'aspect-square',
     color: 'from-peach/30 to-blush-light',
@@ -271,7 +248,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'GP MyGP Emergency Balance',
     category: 'Social Media',
     description:
-      'A high-relatability situational post for MyGP Emergency Balance — depicting a roadside flat tire scenario where instant mobile balance provides crucial rescue connectivity.',
+      'Relatable scenario post depicting a driver stranded with a flat tire late at night. Highlights how instant emergency balance through MyGP keeps you connected when it matters most.',
     image: '/portfolio/social-media/gp-mygp-emergency-balance.jpeg',
     aspect: 'aspect-square',
     color: 'from-sage/30 to-lavender-light',
@@ -283,7 +260,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'GP MyGP Referral Bonus',
     category: 'Social Media',
     description:
-      'A dynamic referral promotion for MyGP app offering up to 1 GB bonus data for inviting friends — youthful campus vibes and upbeat celebratory energy.',
+      'Campus-themed referral promo for MyGP offering bonus data for bringing friends on board. Upbeat student lifestyle imagery paired with celebratory visual accents.',
     image: '/portfolio/social-media/gp-mygp-referral-bonus.jpeg',
     aspect: 'aspect-square',
     color: 'from-blush/40 to-cream',
@@ -295,7 +272,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'GP MyGP Self Recharge',
     category: 'Social Media',
     description:
-      'An empowering daily lifestyle creative for MyGP app — showing self-reliant in-app recharges during everyday multitasking in the kitchen.',
+      'Lifestyle creative spotlighting self-reliance and convenience on MyGP. Shows a home cook effortlessly recharging her line mid-recipe without interrupting her day.',
     image: '/portfolio/social-media/gp-mygp-self-recharge.jpeg',
     aspect: 'aspect-square',
     color: 'from-peach/30 to-cream',
@@ -307,21 +284,168 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Bioscope+ Champions League',
     category: 'Social Media',
     description:
-      'A high-octane sports broadcast promotional visual for Bioscope+ and Sony LIV — dramatic stadium lighting, grass turf action and vibrant streaming platform branding for the UEFA Champions League.',
+      'High-energy sports broadcast visual for Bioscope+ and Sony LIV. Stadium floodlights, turf spray, and sleek streaming badges built to build hype around UEFA Champions League nights.',
     image: '/portfolio/social-media/bioscope-champions-league.jpeg',
     aspect: 'aspect-square',
     color: 'from-charcoal/20 to-lavender/20',
     tag: '1:1',
     tools: ['Photoshop'],
   },
+  {
+    id: 'bioscope-sultan-suleiman-set',
+    title: 'Sultan Suleiman Palace Set',
+    category: 'Social Media',
+    description:
+      'Digital watercolor artwork created for the Bioscope+ Sultan Suleiman campaign. Illustrates the sprawling 2,100 square meter Ottoman palace set with grand chandeliers and royal purple drapery.',
+    image: '/portfolio/social-media/bioscope-sultan-suleiman-shooting-set.jpg',
+    aspect: 'aspect-square',
+    color: 'from-lavender/30 to-cream',
+    tag: '1:1',
+    tools: ['Photoshop'],
+  },
+  {
+    id: 'bioscope-sultan-suleiman-royal-legacy',
+    title: 'Sultan Suleiman Royal Legacy',
+    category: 'Social Media',
+    description:
+      'Watercolor-style dual portrait of Sultan Suleiman and Hurrem Sultan. Designed for social streaming promotions with rich gold filigree and regal textures honoring the historic Turkish drama.',
+    image: '/portfolio/social-media/bioscope-sultan-suleiman-royal-legacy.jpg',
+    aspect: 'aspect-square',
+    color: 'from-blush/30 to-lavender-light',
+    tag: '1:1',
+    tools: ['Photoshop'],
+  },
+  {
+    id: 'bioscope-sultan-suleiman-global-content',
+    title: 'Sultan Suleiman Global Reach',
+    category: 'Social Media',
+    description:
+      'Storytelling illustration celebrating Sultan Suleiman international broadcast across more than 70 countries. Pairs a glowing celestial globe with the historic Istanbul skyline at golden hour.',
+    image: '/portfolio/social-media/bioscope-sultan-suleiman-global-content.jpg',
+    aspect: 'aspect-square',
+    color: 'from-peach/30 to-cream',
+    tag: '1:1',
+    tools: ['Photoshop'],
+  },
+  {
+    id: 'bioscope-sultan-suleiman-emerald-ring',
+    title: 'Sultan Suleiman Imperial Ring',
+    category: 'Social Media',
+    description:
+      'Jewel-focused creative depicting Hurrem Sultan iconic teardrop emerald ring on velvet. Intricate diamond pavé details and golden brushwork announce the streaming release on Bioscope+ and Deepto Play.',
+    image: '/portfolio/social-media/bioscope-sultan-suleiman-emerald-cushion.jpg',
+    aspect: 'aspect-square',
+    color: 'from-sage/30 to-blush-light',
+    tag: '1:1',
+    tools: ['Photoshop'],
+  },
+  {
+    id: 'vibrant-summer-comfort',
+    title: 'Vibrant Summer Comfort',
+    category: 'Social Media',
+    description:
+      'Seasonal footwear post for Vibrant Summer Comfort collection. Combines light denim textures, warm summer tones, and clean product angles suited for social feeds.',
+    image: '/portfolio/social-media/vibrant-summer-comfort-post.png',
+    aspect: 'aspect-square',
+    color: 'from-sage/30 to-peach/20',
+    tag: '1:1',
+    tools: ['Photoshop', 'Illustrator'],
+  },
+  {
+    id: 'honda-cbr150r-throttle',
+    title: 'Honda CBR150R Throttle',
+    category: 'Social Media',
+    description:
+      'Widescreen key visual for the Honda CBR 150R under the tagline Dominate with Every Throttle. Neon speed streaks and dark asphalt textures frame the aggressive posture of the bike.',
+    image: '/portfolio/social-media/honda-cbr150r-throttle.png',
+    aspect: 'aspect-[16/9]',
+    color: 'from-charcoal/30 to-blush/20',
+    tag: '16:9',
+    tools: ['Photoshop', 'Illustrator'],
+  },
+  {
+    id: 'gp-apple-music-gift-card',
+    title: 'GP Apple Gift Card Campaign',
+    category: 'Social Media',
+    description:
+      'Atmospheric rainy-day social visual for Grameenphone promoting Apple Gift Cards on MyGP. The scene features premium headphones on a wooden rocking chair beside steaming coffee, highlighting direct Apple Music access without credit cards.',
+    image: '/portfolio/social-media/gp-apple-music-gift-card.jpg',
+    aspect: 'aspect-[4/5]',
+    color: 'from-blue-500/20 to-teal-500/20',
+    tag: '4:5',
+    tools: ['Photoshop', 'Illustrator'],
+  },
+  {
+    id: 'gp-playstation-gift-card',
+    title: 'GP PlayStation Gift Card',
+    category: 'Social Media',
+    description:
+      'High-energy gaming promotional visual for Grameenphone showcasing official PlayStation PSN vouchers inside MyGP. Features a glowing sci-fi mech warrior breaking through a widescreen display into player hands.',
+    image: '/portfolio/social-media/gp-playstation-gift-card.jpg',
+    aspect: 'aspect-square',
+    color: 'from-blue-600/20 to-indigo-900/30',
+    tag: '1:1',
+    tools: ['Photoshop', 'Illustrator'],
+  },
+  {
+    id: 'gp-international-roaming',
+    title: 'GP International Roaming',
+    category: 'Social Media',
+    description:
+      'Dynamic travel campaign creative for Grameenphone international roaming service. A central traveler boarding an aircraft is framed by scenic split perspectives spanning Dubai, Himalayan peaks, tropical lagoons, and historic temples.',
+    image: '/portfolio/social-media/gp-international-roaming.jpg',
+    aspect: 'aspect-square',
+    color: 'from-sky-500/20 to-amber-500/20',
+    tag: '1:1',
+    tools: ['Photoshop', 'Illustrator'],
+  },
 
   // ── Motion Design ─────────────────────────────────────
+  {
+    id: 'smc-skins-folder-motion',
+    title: 'SMC SKINS The Skins Folder',
+    category: 'Motion Design',
+    description:
+      'Playful vertical motion piece for SMC SKINS UK Brand condoms. Built around a secret desktop folder concept that unzips to reveal colorful flavor varieties in fluid 9:16 motion.',
+    image: '/portfolio/motion/smc-skins-folder-motion-thumb.jpg',
+    video: '/portfolio/motion/smc-skins-folder-motion.mp4',
+    aspect: 'aspect-[9/16]',
+    color: 'from-lavender/30 to-charcoal/20',
+    tag: '9:16',
+    tools: ['After Effects', 'Photoshop'],
+  },
+  {
+    id: 'suzuki-gixxer-sf-motion',
+    title: 'Suzuki Gixxer SF Color Motion',
+    category: 'Motion Design',
+    description:
+      'Fast-paced product reel showcasing the Suzuki Gixxer SF color palette. Seamless paint transitions, drift smoke, and neon lighting invite riders to pick their signature look.',
+    image: '/portfolio/motion/suzuki-gixxer-sf-motion-thumb.jpg',
+    video: '/portfolio/motion/suzuki-gixxer-sf-motion.mp4',
+    aspect: 'aspect-[4/5]',
+    color: 'from-blush/30 to-lavender-light',
+    tag: 'Motion',
+    tools: ['After Effects', 'Photoshop'],
+  },
+  {
+    id: 'vibrant-summer-comfort-motion',
+    title: 'Vibrant Summer Comfort Motion',
+    category: 'Motion Design',
+    description:
+      'Breezy motion ad produced for Vibrant footwear. Features floating floral elements, natural summer lighting, and rhythmic shoe reveals designed for Instagram engagement.',
+    image: '/portfolio/motion/vibrant-summer-comfort-motion-thumb.jpg',
+    video: '/portfolio/motion/vibrant-summer-comfort-motion.mp4',
+    aspect: 'aspect-square',
+    color: 'from-peach/30 to-cream',
+    tag: 'Motion',
+    tools: ['After Effects', 'Photoshop'],
+  },
   {
     id: 'gp-oneai-launch-campaign',
     title: 'GP OneAI Launch Campaign',
     category: 'Motion Design',
     description:
-      "A high-end 3D motion design video for Grameenphone's OneAI platform — featuring a sleek rotating cylinder displaying 8 leading AI models, seamless mobile package walkthroughs, and a cinematic touch of AI innovation.",
+      '3D motion promo for Grameenphone OneAI platform. Features a futuristic rotating cylinder displaying top AI models alongside smooth MyGP package walkthroughs and ambient tech sound.',
     image: '/portfolio/motion/gp-oneai-launch-campaign-thumb.jpg',
     video: '/portfolio/motion/gp-oneai-launch-campaign.mp4',
     aspect: 'aspect-[4/5]',
@@ -330,24 +454,11 @@ export const portfolioItems: PortfolioItem[] = [
     tools: ['After Effects', 'Photoshop', 'Illustrator'],
   },
   {
-    id: 'gp-oneai-mobile-payment',
-    title: 'GP OneAI Mobile Balance Feature',
-    category: 'Motion Design',
-    description:
-      'An electric, fast-paced motion graphic promoting Grameenphone OneAI integration into the MyGP app — highlighting direct mobile balance payment, flexible subscription tiers, and instant access to top AI models.',
-    image: '/portfolio/motion/gp-oneai-mobile-payment-thumb.jpg',
-    video: '/portfolio/motion/gp-oneai-mobile-payment.mp4',
-    aspect: 'aspect-[4/5]',
-    color: 'from-blush/30 to-lavender-light',
-    tag: 'Motion',
-    tools: ['After Effects', 'Photoshop'],
-  },
-  {
     id: 'lays-new-flavors',
     title: "Lay's New Flavors",
     category: 'Motion Design',
     description:
-      "A crunchy motion design study for Lay's new flavor launch — bold product reveals with satisfying animation and snack-worthy color palette.",
+      'Snack motion study celebrating new Lay potato chip flavors. Playful ingredient explosions, crisp product reveals, and punchy pop transitions keep the viewing experience appetizing.',
     image: '/portfolio/motion/lays-new-flavors---study-thumb.jpg',
     video: '/portfolio/motion/lays-new-flavors - study.mp4',
     aspect: 'aspect-[9/16]',
@@ -356,11 +467,39 @@ export const portfolioItems: PortfolioItem[] = [
     tools: ['After Effects', 'Photoshop'],
   },
   {
+    id: 'pran-ice-lolly-motion',
+    title: 'PRAN Ice Lolly 3D Promo',
+    category: 'Motion Design',
+    description:
+      'Lively 3D animation spot for PRAN Ice Lolly in 4:5 vertical format. Mascot characters dance alongside splashing fruit juice and frozen treats to capture kids imaginations.',
+    image: '/portfolio/motion/pran-ice-lolly-motion-thumb.jpg',
+    video: '/portfolio/motion/pran-ice-lolly-motion.mp4',
+    aspect: 'aspect-[4/5]',
+    color: 'from-peach/40 to-blush-light',
+    tag: 'Motion',
+    tools: ['After Effects', 'Photoshop'],
+  },
+
+  {
+    id: 'vision-speaker-sound-motion',
+    title: 'VISION Sound System Experience',
+    category: 'Motion Design',
+    description:
+      'Dynamic audio commercial for VISION Electronics multimedia speakers. Pulsing blue LED rings, deep bass ripples, and smooth living room cuts convey high-fidelity sound at home.',
+    image: '/portfolio/motion/vision-speaker-sound-motion-thumb.jpg',
+    video: '/portfolio/motion/vision-speaker-sound-motion.mp4',
+    aspect: 'aspect-[4/5]',
+    color: 'from-lavender/30 to-peach/20',
+    tag: 'Motion',
+    tools: ['After Effects', 'Photoshop'],
+  },
+
+  {
     id: 'gp-1-bangladesh-1-internet',
     title: 'GP 1 Bangladesh 1 Internet',
     category: 'Motion Design',
     description:
-      'A powerful motion campaign for Grameenphone\'s "1 Bangladesh 1 Internet" initiative — unifying visuals celebrating digital connectivity across the nation with bold brand storytelling.',
+      'Nationwide campaign motion graphic for Grameenphone celebrating shared connectivity across Bangladesh. Rich cultural tapestries merge with fiber optic light lines to illustrate unity.',
     image: '/portfolio/motion/grameenphone---1-bangladesh-1_internet-campeign-thumb.png',
     video: '/portfolio/motion/grameenphone_1_bangladesh_1_internet_campeign.mp4',
     aspect: 'aspect-[16/9]',
@@ -369,11 +508,24 @@ export const portfolioItems: PortfolioItem[] = [
     tools: ['After Effects', 'Photoshop', 'Illustrator'],
   },
   {
+    id: 'gp-mnemonic-animated',
+    title: 'GP 1 Bangladesh Mnemonic',
+    category: 'Motion Design',
+    description:
+      'Animated mnemonic mark created for Grameenphone nationwide campaign. Features the stylized Bengali numeral one broadcasting signal waves with clean vector animation and kinetic typography.',
+    image: '/portfolio/motion/gp-1-bangladesh-1-internet-mnemonic-thumb.jpg',
+    video: '/portfolio/motion/gp-1-bangladesh-1-internet-mnemonic.mp4',
+    aspect: 'aspect-[4/3]',
+    color: 'from-lavender/30 to-blush-light',
+    tag: 'Motion',
+    tools: ['After Effects', 'Illustrator'],
+  },
+  {
     id: 'gp-5g-motion',
     title: 'GP 5G Motion',
     category: 'Motion Design',
     description:
-      'A futuristic motion design study for Grameenphone 5G — sleek animations showcasing speed and connectivity with high-tech visual language.',
+      'Experimental motion study exploring Grameenphone 5G design language. Neon glow pulses, sleek speedometers, and particle streams demonstrate next-generation data speeds.',
     image: '/portfolio/motion/gp-5g---study-thumb.jpg',
     video: '/portfolio/motion/GP-5g - study.mp4',
     aspect: 'aspect-[9/16]',
@@ -381,13 +533,38 @@ export const portfolioItems: PortfolioItem[] = [
     tag: '9:16',
     tools: ['After Effects', 'Photoshop', 'Illustrator'],
   },
-
+  {
+    id: 'gp-entertainment-vouchers-motion',
+    title: 'GP Entertainment Vouchers Motion',
+    category: 'Motion Design',
+    description:
+      'High-tempo motion ad for Grameenphone highlighting digital vouchers on MyGP. The sequence flows from Apple TV on a MacBook and PUBG on mobile into a rich catalog of gaming passes, console credits, and streaming subscriptions.',
+    image: '/portfolio/motion/gp-entertainment-vouchers-motion-thumb.jpg',
+    video: '/portfolio/motion/gp-entertainment-vouchers-motion.mp4',
+    aspect: 'aspect-[4/5]',
+    color: 'from-blue-600/30 to-indigo-700/20',
+    tag: 'Motion',
+    tools: ['After Effects', 'Cinema 4D', 'Illustrator'],
+  },
+  {
+    id: 'gp-vouchers-unboxing-promo',
+    title: 'GP Vouchers Unboxing Promo',
+    category: 'Motion Design',
+    description:
+      'Mixed live-action and motion design promotional ad for Grameenphone voucher hub. Features a tactile mystery unboxing concept revealing physical tickets for Discord Nitro, TeraBox, and Crunchyroll before directing audiences to MyGP.',
+    image: '/portfolio/motion/gp-vouchers-unboxing-promo-thumb.jpg',
+    video: '/portfolio/motion/gp-vouchers-unboxing-promo.mp4',
+    aspect: 'aspect-[4/5]',
+    color: 'from-cyan-500/20 to-amber-500/20',
+    tag: 'Motion',
+    tools: ['After Effects', 'Premiere Pro', 'Photoshop'],
+  },
   {
     id: 'diploma-droolecious-desert',
     title: 'Diploma Droolecious Desert',
     category: 'Motion Design',
     description:
-      "A mouth-watering motion design for Diploma's Droolecious Desert campaign — rich dessert visuals with smooth animations and indulgent brand styling.",
+      'Indulgent motion graphic for Diploma sweet dessert campaign. Velvet caramel pours, slow-motion cream drizzles, and elegant typography make each recipe look irresistible.',
     image: '/portfolio/motion/diploma---droolecious-desert-thumb.png',
     video: '/portfolio/motion/diploma-droolecious-desert.mp4',
     aspect: 'aspect-[4/5]',
@@ -400,7 +577,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Diploma Boishakh 1433',
     category: 'Motion Design',
     description:
-      'A vibrant Bengali New Year (Pohela Boishakh 1433) motion design for Diploma — celebrating cultural tradition with festive colors, traditional patterns and lively animation.',
+      'Festive Pohela Boishakh motion visual for Diploma. Vibrant Alpona folk patterns, rhythmic dhol beats, and traditional motifs come alive in a colorful celebration of the Bengali New Year.',
     image: '/portfolio/motion/diploma-boishakh-1433-thumb.jpg',
     video: '/portfolio/motion/Diploma boishakh 1433.mp4',
     aspect: 'aspect-[4/5]',
@@ -413,7 +590,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'GP 15 GB Free',
     category: 'Motion Design',
     description:
-      "A punchy motion graphic study for Grameenphone's 15 GB free data offer — fast-paced animation with bold data visuals and telecom branding.",
+      'Promotional flash reel highlighting Grameenphone 15 GB data giveaway. Big numbers, kinetic typography, and snappy camera zooms drive quick user interest.',
     image: '/portfolio/motion/gp-15-gb-free---study-thumb.jpg',
     video: '/portfolio/motion/GP 15 GB free - study.mp4',
     aspect: 'aspect-[4/5]',
@@ -426,7 +603,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'GP Run Campaign',
     category: 'Motion Design',
     description:
-      'An energetic motion graphic for Grameenphone Run — dynamic animation with athletic visuals, kinetic typography and motivational pace.',
+      'Motivational fitness motion graphic for Grameenphone Run. Energetic silhouettes, pacing counters, and vibrant orange-to-purple gradients inspire runners to track their personal bests.',
     image: '/portfolio/motion/gp-run---study-thumb.jpg',
     video: '/portfolio/motion/GP-run - study.mp4',
     aspect: 'aspect-[9/16]',
@@ -434,25 +611,13 @@ export const portfolioItems: PortfolioItem[] = [
     tag: '9:16',
     tools: ['After Effects'],
   },
-  {
-    id: 'frutzzy-concept',
-    title: 'Frutzzy Concept',
-    category: 'Motion Design',
-    description:
-      'A fun, colorful concept motion design for Frutzzy beverage brand — juicy animations with fruit splashes, playful transitions and fresh brand energy.',
-    image: '/portfolio/motion/frutzzy---concept-thumb.jpg',
-    video: '/portfolio/motion/frutzzy - concept.mp4',
-    aspect: 'aspect-[4/5]',
-    color: 'from-sage/30 to-peach/20',
-    tag: 'Motion',
-    tools: ['After Effects', 'Photoshop'],
-  },
+
   {
     id: 'turaag-active-goal-fest',
     title: 'Turaag Active Goal Fest',
     category: 'Motion Design',
     description:
-      "A high-energy motion design for Turaag Active's Goal Fest Reminder — bold illustrated football visuals with celebratory animation and vibrant red-and-white brand energy.",
+      'Celebratory football motion graphic created for Turaag Active. Dynamic illustrated strikers, stadium cheers, and bold sportswear branding keep the excitement high during match season.',
     image: '/portfolio/motion/turaag-active---goal-fest-reminder-thumb.jpg',
     video: '/portfolio/motion/turaag_active-goal-fest-reminder.mp4',
     aspect: 'aspect-[4/5]',
@@ -465,7 +630,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Turaag Active Relive the Glory',
     category: 'Motion Design',
     description:
-      'A dynamic teaser motion design for Turaag Active — reliving football glory with glitch-style effects, vivid colors and energetic player illustrations.',
+      'Retro-infused teaser video for Turaag Active reliving classic football moments. Glitch overlays, grain textures, and intense player cutouts create nostalgia and athletic passion.',
     image: '/portfolio/motion/turaag-active---relive-the-glory-teaser-thumb.jpg',
     video: '/portfolio/motion/turaag_active-relive-the glory-teaser.mp4',
     aspect: 'aspect-[4/5]',
@@ -473,6 +638,59 @@ export const portfolioItems: PortfolioItem[] = [
     tag: 'Motion',
     tools: ['After Effects', 'Illustrator'],
   },
+  {
+    id: 'gp-alo-iot-tracker-motion',
+    title: 'GP Alo IoT Vehicle Tracker',
+    category: 'Motion Design',
+    description:
+      'Playful motion graphic commercial for Grameenphone Alo smart IoT vehicle tracker. Utilizes stylized stop-motion aesthetics, miniature wooden cars, and an illustrated paper roadmap to present connected vehicle security.',
+    image: '/portfolio/motion/gp-alo-iot-tracker-motion-thumb.jpg',
+    video: '/portfolio/motion/gp-alo-iot-tracker-motion.mp4',
+    aspect: 'aspect-square',
+    color: 'from-sky-400/20 to-blue-600/20',
+    tag: 'Motion',
+    tools: ['After Effects', 'Illustrator', 'Cinema 4D'],
+  },
+  {
+    id: 'gp-digital-vouchers-carousel',
+    title: 'GP Digital Vouchers Showcase',
+    category: 'Motion Design',
+    description:
+      'Sleek studio carousel motion ad introducing official digital vouchers on MyGP. Metallic 3D card presentations rotate smoothly across spotlighted timber flooring to showcase Netflix, PlayStation, Apple, and Discord gift cards.',
+    image: '/portfolio/motion/gp-digital-vouchers-carousel-thumb.jpg',
+    video: '/portfolio/motion/gp-digital-vouchers-carousel.mp4',
+    aspect: 'aspect-[4/5]',
+    color: 'from-blue-600/20 to-slate-800/30',
+    tag: 'Motion',
+    tools: ['After Effects', 'Premiere Pro', 'Photoshop'],
+  },
+  {
+    id: 'gp-apple-gift-card-motion',
+    title: 'GP Apple Gift Card Motion Ad',
+    category: 'Motion Design',
+    description:
+      'Vibrant promotional motion ad announcing official Apple Gift Cards directly within MyGP. Colorful app tiles bloom outward to highlight instant access to Apple Music, App Store purchases, iCloud storage, and Apple One.',
+    image: '/portfolio/motion/gp-apple-gift-card-motion-thumb.jpg',
+    video: '/portfolio/motion/gp-apple-gift-card-motion.mp4',
+    aspect: 'aspect-[4/5]',
+    color: 'from-blue-700/20 to-purple-700/20',
+    tag: 'Motion',
+    tools: ['After Effects', 'Illustrator'],
+  },
+  {
+    id: 'bioscope-baahubali-bengali-motion',
+    title: 'Bioscope Baahubali Bengali Promo',
+    category: 'Motion Design',
+    description:
+      'Dramatic promotional video campaign for the official Bengali release of Baahubali on Bioscope. Rich character spotlight cards and atmospheric lighting build excitement for the streaming premiere.',
+    image: '/portfolio/motion/bioscope-baahubali-bengali-motion-thumb.jpg',
+    video: '/portfolio/motion/bioscope-baahubali-bengali-motion.mp4',
+    aspect: 'aspect-[4/5]',
+    color: 'from-purple-900/30 to-amber-600/20',
+    tag: 'Motion',
+    tools: ['After Effects', 'Premiere Pro', 'Photoshop'],
+  },
+
 
   // ── Print Design ──────────────────────────────────────
   {
@@ -480,7 +698,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Cerelac Project Heart HTML DA - Phase 2',
     category: 'Print Design',
     description:
-      'A large-format print campaign for Nestlé Cerelac\'s "Project Heart" initiative — emotionally driven visuals featuring loving parent-child moments with warm, nurturing brand aesthetics.',
+      'Large-format print banner for Nestlé Cerelac Project Heart campaign. Warm photographic moments between parent and toddler build an emotional connection grounded in gentle pediatric care.',
     image: '/portfolio/print/da-cerelac-project-heart.png',
     aspect: 'aspect-[7/3]',
     color: 'from-blush/30 to-cream',
@@ -489,10 +707,10 @@ export const portfolioItems: PortfolioItem[] = [
   },
   {
     id: 'cerelac-html-da',
-    title: 'CCerelac Project Heart DA - Phase 1',
+    title: 'Cerelac Project Heart DA - Phase 1',
     category: 'Print Design',
     description:
-      'A HTML UI design for Nestlé Cerelac — an HTML product DA with warm, inviting aesthetics, product showcases and parent-friendly navigation.',
+      'Interactive digital detail aid designed for Nestlé Cerelac. Combines clean clinical guidelines with approachable nutrition breakdowns for healthcare professionals.',
     image: '/portfolio/ui/html-da-cerelac.png',
     aspect: 'aspect-[4/3]',
     color: 'from-lavender-light to-blush/20',
@@ -504,7 +722,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Lactogen GUM DA',
     category: 'Print Design',
     description:
-      'Print material design for Nestlé Lactogen — clean, trustworthy visuals communicating infant nutrition with soft colors and professional medical-grade aesthetics.',
+      'Print detailing brochure for Nestlé Lactogen infant formula. Structured scientific diagrams, calm blue palettes, and balanced typography present key nutritional benefits clearly.',
     image: '/portfolio/print/da-lactogen.png',
     aspect: 'aspect-[5/3]',
     color: 'from-lavender-light to-blush/20',
@@ -516,7 +734,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Pustimix Ritual DA',
     category: 'Print Design',
     description:
-      'A print campaign for Pustimix — showcasing the daily nutrition ritual with appetizing food imagery and health-conscious design for in-store and outdoor display.',
+      'Outdoor in-store print poster for Pustimix dietary supplement. Illustrates how a spoonful fits seamlessly into morning breakfast routines for balanced family wellness.',
     image: '/portfolio/print/da-pustimix-ritual.png',
     aspect: 'aspect-[5/3]',
     color: 'from-sage/30 to-cream',
@@ -528,7 +746,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Nido LB',
     category: 'Print Design',
     description:
-      'A standing banner design for Nestlé Nido — tall portrait format with prominent product placement, nutritional messaging and family-oriented imagery.',
+      'Floor-standing rollup banner for Nestlé Nido placed in supermarkets. Prominent tin placement, golden milk splashes, and concise health benefits grab busy shoppers attention.',
     image: '/portfolio/print/lb-nido-1.png',
     aspect: 'aspect-[4/5]',
     color: 'from-blush/30 to-lavender-light',
@@ -540,7 +758,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Nido LB 2',
     category: 'Print Design',
     description:
-      'An alternate standee design for Nestlé Nido — a fresh layout variation maintaining brand consistency while exploring different visual compositions.',
+      'Alternative supermarket standee layout for Nestlé Nido. Repositions key health milestones and growth icons with a fresh family visual to test retail visibility.',
     image: '/portfolio/print/lb-nido-2.png',
     aspect: 'aspect-[4/5]',
     color: 'from-peach/30 to-blush-light',
@@ -552,7 +770,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Restaurant Menu',
     category: 'Print Design',
     description:
-      'A professional restaurant menu design — wide-format layout with appetizing food photography, elegant typography and organized sections for a polished dining experience.',
+      'Tri-fold dining menu designed for a modern casual restaurant. Organized grid hierarchy, crisp food photography, and curated typography make browsing dishes effortless.',
     image: '/portfolio/print/menu-restaurants.png',
     aspect: 'aspect-[3/1]',
     color: 'from-sage/30 to-peach/20',
@@ -564,7 +782,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Restaurant Posters',
     category: 'Print Design',
     description:
-      'A collection of decorative poster designs for restaurant interiors — blending food art with wall décor aesthetics to create an inviting dining atmosphere.',
+      'Series of interior wall posters designed for restaurant dining halls. Blends rustic ingredient close-ups with typography to enhance ambient warmth and food culture.',
     image: '/portfolio/print/restaurant-decorative-posters.png',
     aspect: 'aspect-square',
     color: 'from-peach/40 to-cream',
@@ -576,7 +794,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Party Monsters X-Banner',
     category: 'Print Design',
     description:
-      'An eye-catching X-banner stand design for Party Monsters — bold, fun and energetic visuals designed to grab attention at events and venues.',
+      'Event backdrop banner created for Party Monsters children celebrations. Playful mascot doodles, bright pastel confetti, and chunky lettering welcome families to the venue.',
     image: '/portfolio/print/x-banner-party_monsters.png',
     aspect: 'aspect-[7/8]',
     color: 'from-lavender/30 to-blush-light',
@@ -588,7 +806,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Restaurant X-Banner',
     category: 'Print Design',
     description:
-      'An X-banner stand design for restaurant promotion — featuring appetizing imagery and clear branding for storefront and event displays.',
+      'Sidewalk X-banner tailored for restaurant lunch promotions. High-contrast food photography and clear combo meal pricing entice passing pedestrians inside.',
     image: '/portfolio/print/x-banner-restaurants.png',
     aspect: 'aspect-[3/2]',
     color: 'from-blush/40 to-cream',
@@ -600,7 +818,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'DA NAN',
     category: 'Print Design',
     description:
-      'A DA for NAN — bold visuals and clean layout crafted for impactful brand communication.',
+      'Medical detail aid layout for NAN infant nutrition. Focuses on clarity, peer-reviewed visual charts, and trustworthy clinical branding for medical representatives.',
     image: '/portfolio/print/da-nan.png',
     aspect: 'aspect-[5/2]',
     color: 'from-peach/30 to-blush-light',
@@ -614,7 +832,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Fit Hobo',
     category: 'Logo & Branding',
     description:
-      'Logo design for Fit Hobo — a fitness-oriented brand identity combining health and adventure with clean, modern mark and balanced composition.',
+      'Brand identity and mark for Fit Hobo, an outdoor fitness community. Integrates adventure iconography with clean athletic lines to inspire an active, exploratory lifestyle.',
     image: '/portfolio/logo-&-branding/fit-hobo.png',
     aspect: 'aspect-[4/3]',
     color: 'from-sage/30 to-cream',
@@ -626,7 +844,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'LokChai',
     category: 'Logo & Branding',
     description:
-      'Logo design for LokChai tea brand — a warm, inviting wordmark that captures the essence of community tea culture with elegant Bengali-inspired typography.',
+      'Handcrafted wordmark for LokChai, a community tea brand. Draws inspiration from nostalgic Bengali script and roadside tea stalls to evoke warmth, comfort, and conversation.',
     image: '/portfolio/logo-&-branding/lokchai.png',
     aspect: 'aspect-[4/1]',
     color: 'from-peach/30 to-blush-light',
@@ -638,7 +856,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Meal Harkara',
     category: 'Logo & Branding',
     description:
-      'Logo design for Meal Harkara food delivery — a playful brand mark referencing the Bengali "harkara" (messenger) concept with appetizing food visuals.',
+      'Identity design for Meal Harkara food delivery. Reinterprets the traditional Bengali postal runner concept with modern courier speed and appetizing culinary cues.',
     image: '/portfolio/logo-&-branding/meal-harkara.png',
     aspect: 'aspect-square',
     color: 'from-blush/30 to-lavender-light',
@@ -650,7 +868,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Rice Roll',
     category: 'Logo & Branding',
     description:
-      'Logo design for Rice Roll restaurant — a clean, friendly identity that communicates the specialty cuisine with appetizing visual cues.',
+      'Playful brand identity for an Asian street food concept. Smooth geometric lettering and subtle sushi roll geometry create a friendly, appetizing visual presence.',
     image: '/portfolio/logo-&-branding/rice-roll.png',
     aspect: 'aspect-[3/2]',
     color: 'from-lavender-light to-blush/20',
@@ -662,7 +880,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Tylor',
     category: 'Logo & Branding',
     description:
-      'Logo design for Tylor — a sleek, modern brand identity with confident typography and refined aesthetics suited for a premium brand positioning.',
+      'Modern luxury wordmark for Tylor fashion house. Precise letterforms and refined kerning establish an understated, confident identity for high-end retail collections.',
     image: '/portfolio/logo-&-branding/tylor.png',
     aspect: 'aspect-[3/1]',
     color: 'from-blush/30 to-cream',
@@ -674,7 +892,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Zenith',
     category: 'Logo & Branding',
     description:
-      'Logo design for Zenith — a bold wordmark conveying ambition and excellence with sharp geometry and professional presence.',
+      'Geometric logo design for Zenith corporate advisory. Sharp upward angles and structured symmetry symbolize strategic progress, clarity, and steady growth.',
     image: '/portfolio/logo-&-branding/zenith.png',
     aspect: 'aspect-[3/1]',
     color: 'from-lavender/30 to-sage/20',
@@ -686,11 +904,47 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Zero Fin',
     category: 'Logo & Branding',
     description:
-      'Logo design for Zero Fin — a creative brand mark with distinctive character, balancing minimalism and originality in a wide-format presentation.',
+      'Minimalist brand mark designed for Zero Fin financial technology. Clean horizontal lines convey stability, transparency, and effortless digital transactions.',
     image: '/portfolio/logo-&-branding/zero-fin.png',
     aspect: 'aspect-[5/2]',
     color: 'from-peach/40 to-lavender-light',
     tag: 'Logo',
+    tools: ['Illustrator'],
+  },
+  {
+    id: 'nirmaner-nondon-typography',
+    title: 'Nirmaner Nondon Brand Mark',
+    category: 'Logo & Branding',
+    description:
+      'Custom Bengali typographic mark and mnemonic reading Nirmaner Nondon. Melds classical Bengali calligraphic rhythm with modern structural geometry for architectural branding.',
+    image: '/portfolio/logo-&-branding/nirmaner-nondon-typography.png',
+    aspect: 'aspect-[4/3]',
+    color: 'from-blush/30 to-lavender-light',
+    tag: 'Typography',
+    tools: ['Illustrator', 'Photoshop'],
+  },
+  {
+    id: 'olyve-logo',
+    title: 'Olyve Brand Identity',
+    category: 'Logo & Branding',
+    description:
+      'Bold and energetic brand wordmark for Olyve. Geometric letterforms with distinctive rounded curves and vibrant red tones communicate confidence, modernity, and warmth.',
+    image: '/portfolio/logo-&-branding/olyve-logo.png',
+    aspect: 'aspect-[16/9]',
+    color: 'from-blush/30 to-cream',
+    tag: 'Logo',
+    tools: ['Illustrator'],
+  },
+  {
+    id: 'jasrir-logo',
+    title: 'Jasrir Monogram and Wordmark',
+    category: 'Logo & Branding',
+    description:
+      'Brand identity for Jasrir pairing a flowing cursive monogram with refined, widely spaced serif lettering in deep burgundy.',
+    image: '/portfolio/logo-&-branding/jasrir-logo.png',
+    aspect: 'aspect-[3/1]',
+    color: 'from-peach/30 to-blush-light',
+    tag: 'Branding',
     tools: ['Illustrator'],
   },
 
@@ -700,7 +954,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Barindra Mango Juice',
     category: 'Packaging',
     description:
-      'Packaging design for Barindra Mango Juice — tropical, juicy visuals with bold color blocking and fresh fruit imagery that pops on store shelves.',
+      'Shelf-ready bottle label designed for Barindra Mango Juice. Tropical orange color blocks, fresh orchard leaves, and ripe fruit illustrations promise pure, sweet refreshment.',
     image: '/portfolio/packaging/barindra-mango-juice.png',
     aspect: 'aspect-[3/2]',
     color: 'from-peach/30 to-sage/20',
@@ -712,7 +966,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Live Lite',
     category: 'Packaging',
     description:
-      'Packaging design for Live Lite health product — clean, minimal layout with health-conscious aesthetics communicating freshness and wellness.',
+      'Clean health product packaging designed for Live Lite supplements. Soft mint tones, uncluttered information architecture, and crisp seals communicate purity and daily wellness.',
     image: '/portfolio/packaging/live-lite.png',
     aspect: 'aspect-square',
     color: 'from-sage/30 to-cream',
@@ -726,7 +980,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Rickshaw Madness',
     category: 'Comic & Illustration',
     description:
-      'A vibrant, detailed illustration capturing the chaotic energy of Bangladeshi rickshaw culture — colorful, bustling street scenes with hand-drawn characters and playful storytelling.',
+      'Detailed narrative illustration celebrating the vibrant chaos of Dhaka streets. Hand-drawn rickshaw art, buzzing commuters, and street vendors come together in a warm tribute to city life.',
     image: '/portfolio/comic-&-illustration/riskshaw-madness.png',
     aspect: 'aspect-[4/3]',
     color: 'from-blush/40 to-peach/20',
@@ -738,7 +992,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Labbé Children Book P1',
     category: 'Comic & Illustration',
     description:
-      "Page 1 of a charming children's web-book illustration for Labbé — whimsical characters and colorful scenes designed to delight young readers.",
+      'Opening spread for Labbé interactive children web-book. Soft watercolor textures and wide-eyed animal characters guide young readers into an imaginative storybook world.',
     image: '/portfolio/comic-&-illustration/labbe-childrenwebbook-illustration-p1.png',
     aspect: 'aspect-[2/1]',
     color: 'from-peach/30 to-sage/20',
@@ -750,7 +1004,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Labbé Children Book P2',
     category: 'Comic & Illustration',
     description:
-      "Page 2 of a charming children's web-book illustration for Labbé — continuing the story with vibrant artwork and playful visual storytelling.",
+      'Continuation page for Labbé children storybook. Rich outdoor scenery, gentle pastel shading, and playful character poses keep bedtime reading whimsical and calming.',
     image: '/portfolio/comic-&-illustration/labbe-childrenwebbook-illustration-p2.png',
     aspect: 'aspect-[2/1]',
     color: 'from-lavender/30 to-peach/20',
@@ -765,7 +1019,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'UI Design Study',
     category: 'UI Design',
     description:
-      'A UI/UX design study exploring modern interface patterns — clean layouts, intuitive navigation and thoughtful micro-interactions for a polished user experience.',
+      'Modern web and mobile interface study focusing on readability and flow. Clean card grids, intuitive touch targets, and subtle micro-interactions create a relaxed browsing experience.',
     image: '/portfolio/ui/ui-study.png',
     aspect: 'aspect-video',
     color: 'from-blush/30 to-lavender-light',
@@ -779,7 +1033,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'War Promo',
     category: 'Manipulation',
     description:
-      'A dramatic photo manipulation promo — cinematic compositing with intense mood, layered effects and powerful visual storytelling.',
+      'Cinematic photo manipulation piece depicting battlefield drama. Atmospheric smoke, layered embers, and intense lighting composites tell a gripping visual story.',
     image: '/portfolio/manipulation/war-promo.png',
     aspect: 'aspect-[9/10]',
     color: 'from-charcoal/20 to-lavender/20',

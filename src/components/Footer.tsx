@@ -5,7 +5,7 @@ export default function Footer() {
         MOLEE<span className='text-blush'>.</span>
       </p>
       <p className='font-body text-sm text-cream/40 tracking-wide'>
-        © {new Date().getFullYear()} — Designed with ♡
+        © {new Date().getFullYear()} • Designed with care by Molee
       </p>
     </footer>
   );
