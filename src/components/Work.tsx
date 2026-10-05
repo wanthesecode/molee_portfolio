@@ -7,6 +7,9 @@ import ProjectModal from './ProjectModal';
 export default function Work() {
   const [selected, setSelected] = useState<PortfolioItem | null>(null);
   const featuredIds = [
+    'gp-international-roaming-motion',
+    'gp-oneai-carousel-showcase',
+    'gp-points-redeem-pocket-router',
     'suzuki-gixxer-sf-motion',
     'smc-skins-folder-motion',
     'turaag-active-goal-fest',
@@ -22,7 +25,6 @@ export default function Work() {
     'restaurant-posters',
     'gp-oneai-launch-campaign',
     'vibrant-summer-comfort-motion',
-
   ];
   const featured = featuredIds
     .map((id) => portfolioItems.find((p) => p.id === id))
