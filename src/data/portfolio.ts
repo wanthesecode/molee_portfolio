@@ -39,30 +39,6 @@ export const portfolioItems: PortfolioItem[] = [
   // ── Social Media ──────────────────────────────────────
 
   {
-    id: 'apex-boshonto',
-    title: 'Apex Boshonto',
-    category: 'Social Media',
-    description:
-      'Spring campaign post designed for Apex celebrating Pohela Falgun. Centered around traditional Bengali motifs, marigold hues, and festive footwear styling to connect with holiday shoppers.',
-    image: '/portfolio/social-media/apex-boshonto.JPG',
-    aspect: 'aspect-square',
-    color: 'from-peach/30 to-blush-light',
-    tag: '1:1',
-    tools: ['Photoshop'],
-  },
-  {
-    id: 'diploma-chilled-coffee',
-    title: 'Diploma Chilled Coffee',
-    category: 'Social Media',
-    description:
-      'Step-by-step recipe visual created for Diploma milk powder. Styled with rich coffee textures, ice cubes, and clear typography to make the home-brewing process look quick and tempting.',
-    image: '/portfolio/social-media/diploma-make-chilled-coffee.jpeg',
-    aspect: 'aspect-[4/5]',
-    color: 'from-sage/30 to-cream',
-    tag: '4:5',
-    tools: ['Photoshop'],
-  },
-  {
     id: 'gp-5g-social',
     title: 'GP 5G Campaign',
     category: 'Social Media',
@@ -244,6 +220,30 @@ export const portfolioItems: PortfolioItem[] = [
     tools: ['Photoshop'],
   },
   {
+    id: 'apex-boshonto',
+    title: 'Apex Boshonto',
+    category: 'Social Media',
+    description:
+      'Spring campaign post designed for Apex celebrating Pohela Falgun. Centered around traditional Bengali motifs, marigold hues, and festive footwear styling to connect with holiday shoppers.',
+    image: '/portfolio/social-media/apex-boshonto.JPG',
+    aspect: 'aspect-square',
+    color: 'from-peach/30 to-blush-light',
+    tag: '1:1',
+    tools: ['Photoshop'],
+  },
+  {
+    id: 'diploma-chilled-coffee',
+    title: 'Diploma Chilled Coffee',
+    category: 'Social Media',
+    description:
+      'Step-by-step recipe visual created for Diploma milk powder. Styled with rich coffee textures, ice cubes, and clear typography to make the home-brewing process look quick and tempting.',
+    image: '/portfolio/social-media/diploma-make-chilled-coffee.jpeg',
+    aspect: 'aspect-[4/5]',
+    color: 'from-sage/30 to-cream',
+    tag: '4:5',
+    tools: ['Photoshop'],
+  },
+  {
     id: 'gp-mygp-emergency-balance',
     title: 'GP MyGP Emergency Balance',
     category: 'Social Media',
@@ -399,6 +399,42 @@ export const portfolioItems: PortfolioItem[] = [
     tag: '1:1',
     tools: ['Photoshop', 'Illustrator'],
   },
+  {
+    id: 'gp-oneai-carousel-showcase',
+    title: 'GP OneAI Carousel Showcase',
+    category: 'Social Media',
+    description:
+      'Multi-slide Instagram carousel campaign showcase for Grameenphone OneAI on MyGP. Demonstrates 8 top AI models in a single subscription, seamless mobile balance billing, cross-platform app and web access, and flexible monthly plans.',
+    image: '/portfolio/social-media/gp-oneai-carousel-showcase.jpeg',
+    aspect: 'aspect-[3/2]',
+    color: 'from-blue-500/20 to-purple-500/20',
+    tag: 'Carousel',
+    tools: ['Photoshop', 'Illustrator'],
+  },
+  {
+    id: 'gp-points-redeem-pocket-router',
+    title: 'GP Points Pocket Router Promo',
+    category: 'Social Media',
+    description:
+      'High-impact social media creative for Grameenphone MyGP Points reward program. Features a futuristic levitating Pocket Router device powered by radiant blue laser projections from the MyGP redemption screen, framed by floating golden coins.',
+    image: '/portfolio/social-media/gp-points-redeem-pocket-router.jpeg',
+    aspect: 'aspect-[4/5]',
+    color: 'from-blue-600/30 to-amber-500/20',
+    tag: '4:5',
+    tools: ['Photoshop', 'Illustrator'],
+  },
+  {
+    id: 'gp-points-redeem-rewards',
+    title: 'GP Points Rewards Campaign',
+    category: 'Social Media',
+    description:
+      'Vibrant loyalty reward campaign visual for Grameenphone MyGP Points. Depicts a celebratory mobile customer atop stacked wooden blocks representing redeemable rewards spanning internet, minutes, SMS, entertainment, and bundle offers.',
+    image: '/portfolio/social-media/gp-points-redeem-rewards.jpeg',
+    aspect: 'aspect-[4/3]',
+    color: 'from-sky-500/30 to-amber-500/20',
+    tag: '4:3',
+    tools: ['Photoshop', 'Illustrator'],
+  },
 
   // ── Motion Design ─────────────────────────────────────
   {
@@ -450,6 +486,19 @@ export const portfolioItems: PortfolioItem[] = [
     video: '/portfolio/motion/gp-oneai-launch-campaign.mp4',
     aspect: 'aspect-[4/5]',
     color: 'from-lavender/30 to-blush-light',
+    tag: 'Motion',
+    tools: ['After Effects', 'Photoshop', 'Illustrator'],
+  },
+  {
+    id: 'gp-international-roaming-motion',
+    title: 'GP International Roaming Motion',
+    category: 'Motion Design',
+    description:
+      'Dynamic motion design reel for Grameenphone International Roaming on MyGP. Features floating vintage postage stamps highlighting dream travel destinations across Thailand, Malaysia, and India gliding across serene cloudscapes before showcasing instant in-app roaming activation.',
+    image: '/portfolio/motion/gp-international-roaming-motion-thumb.jpg',
+    video: '/portfolio/motion/gp-international-roaming-motion.mp4',
+    aspect: 'aspect-[4/5]',
+    color: 'from-sky-500/30 to-indigo-600/20',
     tag: 'Motion',
     tools: ['After Effects', 'Photoshop', 'Illustrator'],
   },
@@ -690,7 +739,6 @@ export const portfolioItems: PortfolioItem[] = [
     tag: 'Motion',
     tools: ['After Effects', 'Premiere Pro', 'Photoshop'],
   },
-
 
   // ── Print Design ──────────────────────────────────────
   {
