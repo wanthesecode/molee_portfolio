@@ -7,6 +7,9 @@ import ProjectModal from './ProjectModal';
 export default function Work() {
   const [selected, setSelected] = useState<PortfolioItem | null>(null);
   const featuredIds = [
+    'akash-fifa-world-cup-motion',
+    'akash-sports-channels-promotion',
+    'shanta-chistys-yacht-rent-v1',
     'gp-international-roaming-motion',
     'gp-oneai-carousel-showcase',
     'gp-points-redeem-pocket-router',

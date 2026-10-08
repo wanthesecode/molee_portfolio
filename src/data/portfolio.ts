@@ -37,7 +37,66 @@ export const categories: PortfolioCategory[] = [
 
 export const portfolioItems: PortfolioItem[] = [
   // ── Social Media ──────────────────────────────────────
-
+  {
+    id: 'gp-points-pocket-router-daylight',
+    title: 'GP Points Pocket Router Daylight',
+    category: 'Social Media',
+    description:
+      'Bright workspace-themed campaign visual for Grameenphone MyGP Points reward program. A 3D Pocket Router floats above an office desk and smartphone interface illuminating points redemption details with blue laser rays, floating points badge, and golden reward coins.',
+    image: '/portfolio/social-media/gp-points-pocket-router-daylight.jpeg',
+    aspect: 'aspect-[4/5]',
+    color: 'from-sky-400/20 to-amber-200/30',
+    tag: '4:5',
+    tools: ['Photoshop', 'Illustrator'],
+  },
+  {
+    id: 'gp-pocket-router-camping',
+    title: 'GP Pocket Router Limitless Pack',
+    category: 'Social Media',
+    description:
+      'Lifestyle outdoor campaign visual for Grameenphone 4G Pocket Router under the 1 Bangladesh initiative. Set in a scenic mountain campsite, highlighting the 809 Tk limitless internet pack with up to 15 Mbps speed, Wi-Fi 6, and 8 hours battery backup for travelers and creators.',
+    image: '/portfolio/social-media/gp-pocket-router-camping.jpeg',
+    aspect: 'aspect-square',
+    color: 'from-blue-500/20 to-emerald-500/20',
+    tag: '1:1',
+    tools: ['Photoshop', 'Illustrator'],
+  },
+  {
+    id: 'akash-sports-channels-promotion',
+    title: 'Akash Digital TV Sports Horizon',
+    category: 'Social Media',
+    description:
+      'High-octane sports campaign key visual for AKASH Digital TV under the tagline "A Horizon of Sports for Every Fan". Athletes spanning cricket, football, tennis, and basketball burst dramatically through a stadium television screen above a neon glass lineup of sports channels.',
+    image: '/portfolio/social-media/akash-sports-channels-promotion.png',
+    aspect: 'aspect-[4/5]',
+    color: 'from-blue-600/30 to-cyan-500/20',
+    tag: '4:5',
+    tools: ['Photoshop', 'Illustrator'],
+  },
+  {
+    id: 'shanta-chistys-yacht-rent-v1',
+    title: "Shanta Chisty's Yacht Lakeside Aerial",
+    category: 'Social Media',
+    description:
+      "Luxury real estate promotional creative for Shanta Property Management showcasing Chisty's Yacht on Dhanmondi Lake. High-angle sunset aerial perspective highlighting signature lakeside architecture, rooftop infinity pool, and lush natural greenery with refined editorial typography.",
+    image: '/portfolio/social-media/shanta-chistys-yacht-rent-v1.png',
+    aspect: 'aspect-square',
+    color: 'from-amber-600/20 to-emerald-700/20',
+    tag: '1:1',
+    tools: ['Photoshop', 'Illustrator'],
+  },
+  {
+    id: 'shanta-chistys-yacht-rent-v2',
+    title: "Shanta Chisty's Yacht Waterfront View",
+    category: 'Social Media',
+    description:
+      "Architectural rental campaign visual for Shanta Property Management highlighting Chisty's Yacht in Dhanmondi. Captures the iconic residential high-rise from across the tranquil lake against a dramatic azure sky, framed with minimalist luxury typography.",
+    image: '/portfolio/social-media/shanta-chistys-yacht-rent-v2.png',
+    aspect: 'aspect-square',
+    color: 'from-blue-600/20 to-emerald-600/20',
+    tag: '1:1',
+    tools: ['Photoshop', 'Illustrator'],
+  },
   {
     id: 'gp-5g-social',
     title: 'GP 5G Campaign',
@@ -438,6 +497,19 @@ export const portfolioItems: PortfolioItem[] = [
 
   // ── Motion Design ─────────────────────────────────────
   {
+    id: 'akash-fifa-world-cup-motion',
+    title: 'Akash Digital TV FIFA World Cup',
+    category: 'Motion Design',
+    description:
+      'High-energy 3D motion graphic ad for AKASH Digital TV celebrating the FIFA World Cup ("বিশ্বকাপের উল্লাসে জমবে খেলা আকাশ-এ"). Features a packed roaring stadium, light streaks chasing an official World Cup ball, kinetic 3D typography, confetti rain, and a dynamic brand reveal.',
+    image: '/portfolio/motion/akash-fifa-world-cup-motion-thumb.jpg',
+    video: '/portfolio/motion/akash-fifa-world-cup-motion.mp4',
+    aspect: 'aspect-[16/9]',
+    color: 'from-blue-600/30 to-amber-500/20',
+    tag: 'Motion',
+    tools: ['After Effects', 'Cinema 4D', 'Illustrator'],
+  },
+  {
     id: 'smc-skins-folder-motion',
     title: 'SMC SKINS The Skins Folder',
     category: 'Motion Design',
@@ -494,7 +566,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'GP International Roaming Motion',
     category: 'Motion Design',
     description:
-      'Dynamic motion design reel for Grameenphone International Roaming on MyGP. Features floating vintage postage stamps highlighting dream travel destinations across Thailand, Malaysia, and India gliding across serene cloudscapes before showcasing instant in-app roaming activation.',
+      'Dynamic motion design reel for Grameenphone International Roaming on MyGP. Features floating vintage postage stamps highlighting dream travel destinations across Thailand, Malaysia, Singapore, and India gliding across serene cloudscapes before showcasing instant in-app roaming activation.',
     image: '/portfolio/motion/gp-international-roaming-motion-thumb.jpg',
     video: '/portfolio/motion/gp-international-roaming-motion.mp4',
     aspect: 'aspect-[4/5]',
